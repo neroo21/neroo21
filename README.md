@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Nero%20👋&fontSize=38&fontColor=333333&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Hi%20There,%20I'm%20Nero%20👋&fontSize=38&fontColor=e6e6e6&animation=fadeIn&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=555555&background=FFFFFF00&center=true&vCenter=true&width=550&lines=Student+%7C+Aspiring+Software+Developer;Coding+with+Python%2C+C%2B%2B+%26+Java+%F0%9F%90%8D;Building+Web+Apps+%F0%9F%8C%90;Making+Games+%F0%9F%8E%AE;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@
 - 🎯 Goal: becoming a well-rounded software developer
 - ⚡ Fun fact: I enjoy solving problems through code (and sometimes a little chaos along the way 😄)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
 ## 🛠️ Tech Stack
 
@@ -50,7 +50,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
 ## 📊 GitHub Stats
 
@@ -71,7 +71,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=neroo21&theme=flat&no-frame=true&margin-w=8&row=1" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -79,7 +79,7 @@
   <img src="https://raw.githubusercontent.com/neroo21/neroo21/output/github-contribution-grid-snake.svg" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
 ## 📫 Connect with Me
 
@@ -98,4 +98,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=100&section=footer" />
+
