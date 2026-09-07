@@ -2,7 +2,7 @@
 <h3 align="center">A Student passionate about Python, Web Dev & Game Dev</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Coding+with+Python+%F0%9F%90%8D;Building+Web+Apps+%F0%9F%8C%90;Making+Games+%F0%9F%8E%AE;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=555555&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Coding+with+Python+%F0%9F%90%8D;Building+Web+Apps+%F0%9F%8C%90;Making+Games+%F0%9F%8E%AE;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,16 +43,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neroo21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neroo21&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neroo21&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neroo21&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neroo21&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neroo21&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neroo21&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neroo21&theme=minimal&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +78,8 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=neroo21&style=for-the-badge&color=blueviolet" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=neroo21&style=for-the-badge&color=lightgrey" alt="profile views" />
 </p>
 
 <p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repositories.</i></p>
+
