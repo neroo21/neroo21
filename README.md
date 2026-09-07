@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Hiii%20 Im ,%20I'm%20Nero%20👋&fontSize=38&fontColor=e6e6e6&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Nero's%20Digital%20Space&fontSize=38&fontColor=e6e6e6&animation=fadeIn&fontAlignY=35" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=555555&background=FFFFFF00&center=true&vCenter=true&width=550&lines=Student+%7C+Aspiring+Software+Developer;Coding+with+Python%2C+C%2B%2B+%26+Java+%F0%9F%90%8D;Building+Web+Apps+%F0%9F%8C%90;Making+Games+%F0%9F%8E%AE;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 - 💻 Currently sharpening my skills in **Python**, **C++**, **Java**, **Web Development**, and **Game Development**
 - 🌱 Focused on turning small ideas into real, working projects
 - 🎯 Goal: becoming a well-rounded software developer
-- ⚡ Fun fact: I enjoying my slowliving life
+- ⚡ Fun fact: I enjoy solving problems through code (and sometimes a little chaos along the way 😄)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
