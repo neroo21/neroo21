@@ -55,8 +55,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neroo21&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neroo21&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=neroo21&show_icons=true&theme=default&hide_border=true&count_private=true&bg_color=0,ffffff,f2f2f2&title_color=1a1a1a&text_color=333333&icon_color=555555" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neroo21&layout=compact&theme=default&hide_border=true&bg_color=0,ffffff,f2f2f2&title_color=1a1a1a&text_color=333333" />
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neroo21&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neroo21&theme=minimal&hide_border=true&bg_color=ffffff&color=333333&line=555555&point=1a1a1a" />
 </p>
 
 <p align="center">
@@ -99,4 +99,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=100&section=footer" />
-
