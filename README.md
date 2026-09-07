@@ -16,7 +16,7 @@
 - 💻 Currently sharpening my skills in **Python**, **C++**, **Java**, **Web Development**, and **Game Development**
 - 🌱 Focused on turning small ideas into real, working projects
 - 🎯 Goal: becoming a well-rounded software developer
-- ⚡ Fun fact: I enjoy solving problems through code (and sometimes a little chaos along the way 😄)
+- ⚡ Fun fact: I enjoying my slowliving life
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:ffffff&height=3&section=header" width="100%">
 
