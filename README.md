@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=200&section=header&text=Nero's%20Digital%20Space&fontSize=38&fontColor=e6e6e6&animation=fadeIn&fontAlignY=35" />
+  <img src="https://raw.githubusercontent.com/neroo21/neroo21/main/banner.png" width="100%" alt="Nero's Digital Space" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=555555&background=FFFFFF00&center=true&vCenter=true&width=550&lines=Student+%7C+Aspiring+Software+Developer;Coding+with+Python%2C+C%2B%2B+%26+Java+%F0%9F%90%8D;Building+Web+Apps+%F0%9F%8C%90;Making+Games+%F0%9F%8E%AE;Always+Learning+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
